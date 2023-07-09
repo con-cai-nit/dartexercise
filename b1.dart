@@ -1,7 +1,11 @@
 /*
-Tạo biến với các kiểu dữ liệu khác nhau và gán giá trị cho chúng.
+Tính tổng của hai số nguyên a và b và in ra kết quả.
 */
 
+import 'dart:io';
+
 void main() {
-  //code
+  int a = int.parse(stdin.readLineSync()!);
+  int b = int.parse(stdin.readLineSync()!);
+  print('Tổng của hai số nguyên a và b là ${a + b}');
 }
