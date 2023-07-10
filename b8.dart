@@ -1,6 +1,5 @@
 //Viết chương trình tính giai thừa của một số nguyên.
 import 'dart:io';
-import 'dart:math';
 
 void main() {
   print('Moi nhap so nguyen:');

@@ -1,6 +1,5 @@
 //Viết một chương trình Dart để kiểm tra xem một số có phải là số âm hay là số dương.
 import 'dart:io';
-import 'dart:math';
 
 void main() {
   print('Moi nhap so bat ki:');

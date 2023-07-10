@@ -1,6 +1,5 @@
 //Viết một chương trình Dart để tính tổng của hai số và kiểm tra xem tổng của hai số có lớn hơn hoặc bằng 0 hay không.
 import 'dart:io';
-import 'dart:math';
 
 void main() {
   print('Nhap 2 so bat kì:');

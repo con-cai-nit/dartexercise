@@ -1,7 +1,6 @@
 //Viết chương trình kiểm tra xem một năm có phải là năm nhuận hay không.
 
 import 'dart:io';
-import 'dart:math';
 
 void main() {
   print('Moi nhap nam:');

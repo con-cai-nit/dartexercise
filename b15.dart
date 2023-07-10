@@ -1,6 +1,5 @@
 //Viết một chương trình Dart để tìm ra số lớn nhất trong ba số.
 import 'dart:io';
-import 'dart:math';
 
 void main() {
   print('Nhap 3 so bat ki:');

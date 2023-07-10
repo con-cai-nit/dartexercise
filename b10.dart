@@ -1,6 +1,5 @@
 //Viết chương trình kiểm tra xem một chuỗi có phải là chuỗi palindrome hay không.
 import 'dart:io';
-import 'dart:math';
 
 void main() {
   print('Moi nhap chuoi tu ban phim:');

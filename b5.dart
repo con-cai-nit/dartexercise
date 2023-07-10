@@ -1,6 +1,5 @@
 // Viết chương trình kiểm tra xem một số nguyên có phải là số chẵn hay không.
 import 'dart:io';
-import 'dart:math';
 
 void main() {
   print('Moi nhap so nguen:');
