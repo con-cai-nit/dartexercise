@@ -1,0 +1,1 @@
+//5. Tạo một stack và thực hiện các hoạt động thêm phần tử vào stack, xóa phần tử khỏi stack, và in ra màn hình các phần tử trong stack.

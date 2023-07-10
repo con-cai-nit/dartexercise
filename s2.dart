@@ -1,0 +1,1 @@
+//2. Tạo một map của các đôi tượng với các trường tên và giá trị, in ra màn hình các đối tượng trong map.

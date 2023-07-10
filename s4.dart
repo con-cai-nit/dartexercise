@@ -1,0 +1,1 @@
+//4. Tạo một queue và thực hiện các hoạt động thêm phần tử vào queue, xóa phần tử khỏi queue, và in ra màn hình các phần tử trong queue.
